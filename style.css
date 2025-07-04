@@ -82,3 +82,23 @@ footer {
   font-size: 0.95em;
   line-height: 1.4;
 }
+
+#contact ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#contact li {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
+
+#contact a {
+  color: #0a0a23;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+  }
